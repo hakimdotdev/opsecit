@@ -1,5 +1,3 @@
-<h3 align="center">An passionate IT-Specialist from Germany</h3>
-
 <p align="left">
 </p>
 
